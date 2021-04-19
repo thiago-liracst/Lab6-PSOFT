@@ -87,7 +87,7 @@ public class Main {
                     sistema.listarPessoasTomaramDose1();
                     break;
                 case(11):
-                    sistema.listarPessoasHabilitadasDose2();
+                    sistema.listarPessoasImunizadas();;
                     break;
                 case(12):
                     sistema.getDetalhes();
